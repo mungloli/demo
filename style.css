@@ -1,9 +1,9 @@
 body {
     display: inline;
 }
-h1{
-    font-size: 10px;
+span {
+    text-decoration: underline;
 }
-h2 {
-    color: red;
+a{
+    text-decoration: none;
 }
